@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Our first blog
-categories: ar
-published: true
+category: Dev
+tags: [web, jekyll]
 
 
 ---
