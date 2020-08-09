@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Our first blog
-category: Dev
-tags: [web, jekyll]
+category: ar
+tags: [يالعربي]
 
 
 ---
