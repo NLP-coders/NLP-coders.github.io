@@ -2,7 +2,7 @@
 layout: post
 title: Our first blog
 category: ar
-tags: [يالعربي]
+tags: [بالعربي]
 
 
 ---
