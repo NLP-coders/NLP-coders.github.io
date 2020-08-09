@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Our first blog
-published: true
 categories: ar
+published: true
+
 
 ---
 

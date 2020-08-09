@@ -1,8 +1,8 @@
 ---
 layout: post
-title: We're up and running!
-categories: Tech
-published: true
+title: Use Tags and Categories in your Jekyll based Github Pages
+category: Dev
+tags: [web, jekyll]
 ---
 
 ## Hello all 
