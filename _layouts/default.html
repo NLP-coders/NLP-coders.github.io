@@ -61,12 +61,16 @@ The following part removes dulpicated tags and invalid tags like blank tag.
             {% comment %}
             =======================
             The purpose of this snippet is to list all the tags you have in your site.
+            https://github.com/codinfox/codinfox-lanyon/blob/master/blog/category.html
             =======================
-            {% endcomment %}
             {% for tag in tags %}
-              <a href="posts/{{ tag | slugify }}"> {{ tag }} </a>
+              <a href="#{{ tag | slugify }}"> {{ tag }} </a>
             {% endfor %}
-
+            {% endcomment %}
+            <a href="ar"> بالعربي </a>
+            
+  
+  
           </nav>
 
    
