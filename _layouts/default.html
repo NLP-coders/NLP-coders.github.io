@@ -64,7 +64,7 @@ The following part removes dulpicated tags and invalid tags like blank tag.
             =======================
             {% endcomment %}
             {% for tag in tags %}
-              <a href="#{{ tag | slugify }}"> {{ tag }} </a>
+              <a href="posts/{{ tag | slugify }}"> {{ tag }} </a>
             {% endfor %}
 
           </nav>
